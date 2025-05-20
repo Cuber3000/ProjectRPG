@@ -1,5 +1,4 @@
 # ProjectRPG
-wokka wokka
 
 Team Members Assigned Features:
 
