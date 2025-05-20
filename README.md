@@ -11,14 +11,14 @@ Camera Control, Menu & Option, Dialogue - Jasper
 
 
 
-# Naming Conventions
-## Folders
+## Naming Conventions
+### Folders
  Will be named using Pascal Casing, then we start with the Scene, then Mechanic, then relevent Data.
 
 i.e. Game/Player/Health or Trap/Spring
-## Scripts
+### Scripts
 Within the namespace it should be relatively clear ```SaveMenu```, ```Health```, and so on that people can understand what the script is about.
-## Branch
+### Branch
 Using - instead of spaces due to github restrictions, pressing space will automatically add it.
 * main
     * The branch containing the production version of the game.
