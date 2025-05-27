@@ -6,7 +6,7 @@ Stats and Leveling, Move character, Respawn - Caleb
 Stat Saving, Interaction, Saving Options - Zach
 Camera Control, Menu & Option, Dialogue - Jasper
 
-## Menu and options Menu – Jasper
+## Menu and options Menu – Zach
 > This feature allows the player to start a new game, 
 load the game and exit by clicking on the Main menu, 
 the options menu’s intended purpose is to allow players 
@@ -43,7 +43,7 @@ The player can also change the camera angle and zoom in by using the mouse.
 using the dialogue options that will effect the player’s interaction in the game.
 >
 
-## Interaction – Zach 
+## Interaction – Jasper 
 > The player can interact with NPCs, objects and environments 
 with the use of prompts. These interactions will trigger actions
 like opening boxes, picking up items or starting a conversation 
