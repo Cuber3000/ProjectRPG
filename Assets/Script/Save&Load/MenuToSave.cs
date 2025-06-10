@@ -6,7 +6,7 @@ using System;
 public class MenuToSave
 {
     [Header("Audio")]
-    public float volume; // float due to slider being between 0 and 1
+    public float volumeLevel; // float due to slider being between 0 and 1
 
     [Header("Quality")]
     public int quality; // 0 is low, 1 is medium, 3 is high. And these match the Uniti Quality setting.

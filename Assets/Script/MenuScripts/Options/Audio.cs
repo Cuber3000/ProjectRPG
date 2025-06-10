@@ -4,8 +4,9 @@ using System.Collections;
 
 public class Audio : MonoBehaviour
 {
-    [SerializeField] private AudioSource _audio; // sets the audio variable
-    [SerializeField] Slider _volumeSlider; // the slider for the game object
+    [SerializeField] public AudioSource _audio; // sets the audio variable
+    [SerializeField] public Slider _volumeSlider; // the slider for the game object
+    public float volumeLevel;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
