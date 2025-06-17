@@ -57,8 +57,10 @@ public class KeyBinds : MonoBehaviour
         // Loops through the dictionary to grab key values.
         foreach (KeyValuePair<string, KeyCode> key in keys)
         {
-            tempValue[i] = keys.Values.ToString(); // Stores the value from KeyCode as a string in the array.
-            i++; // Moves to the next index.
+
+            tempValue[i] = key.Value.ToString(); // Store the value from KeyCode as a string in the array.
+            i++; //Head to the enext index
+
         }
         // Return key values
         return tempValue;
