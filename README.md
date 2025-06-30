@@ -101,3 +101,6 @@ Using - instead of spaces due to github restrictions, pressing space will automa
     * The branch used to work on a bugfix, such as bugfix/inventory-infinite-money-error.
 ## Text Files
 Primarily will be using ```JSON```.
+
+### Audio
+Royalty free music: https://pixabay.com/music/beats-gorila-315977/
