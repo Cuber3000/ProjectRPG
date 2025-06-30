@@ -1,5 +1,4 @@
 using System.IO;
-using System.Xml;
 using UnityEngine;
 
 public class StatSaveAndLoad : MonoBehaviour
